@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "restAPI_Swagger_demo", "restAPI_Swagger_demo\restAPI_Swagger_demo.csproj", "{4F6D2BF7-2B91-4508-862B-230385F5FCBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F6D2BF7-2B91-4508-862B-230385F5FCBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F6D2BF7-2B91-4508-862B-230385F5FCBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F6D2BF7-2B91-4508-862B-230385F5FCBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F6D2BF7-2B91-4508-862B-230385F5FCBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC74BC70-B663-43A3-844F-6FE28A4DF044}
+	EndGlobalSection
+EndGlobal
